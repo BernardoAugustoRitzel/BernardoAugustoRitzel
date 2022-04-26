@@ -17,4 +17,3 @@
 
 
 
-![snake gif](https://github.com/BernardoAugustoRitzel/BernardoAugustoRitzel/blob/output/github-contribution-grid-snake.svg)
